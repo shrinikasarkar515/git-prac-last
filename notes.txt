@@ -1,1 +1,2 @@
 ﻿First version of my notes.
+Second version: I am practicing Git.
