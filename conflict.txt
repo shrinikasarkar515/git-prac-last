@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿This version is from master.
+=======
+﻿This version is from the branch.
+>>>>>>> change-on-branch
