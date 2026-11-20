@@ -1,1 +1,1 @@
-﻿This line will create a conflict.
+﻿This version is from the branch.
